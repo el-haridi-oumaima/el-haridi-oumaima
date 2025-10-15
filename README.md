@@ -18,6 +18,7 @@ const oumaima = {
     education: "Engineering Student @ École des Sciences de l'Information",
     currentFocus: ["Full-Stack Development", "DevOps", "AI/ML"],
     lookingFor: "Final Year Internship (4-6 months)",
+    funFact: "I reduced audio search time by 75% using RAG architecture 🎯",
     hobbies: ["Reading 📚", "Design 🎨", "Crafts & DIY ✂️", "Tech Innovation 💡"]
 };
 ```
@@ -89,7 +90,7 @@ const oumaima = {
 
 > Developed an AI-powered search system for 10,000+ audio archives at SNRT, reducing search time by 75% using RAG architecture and semantic search.
 
-[![ReadMe Card]([https://github-readme-stats.vercel.app/api/pin/?username=el-haridi-oumaima&repo=audio-archive-rag&theme=tokyonight&hide_border=true](https://github.com/el-haridi-oumaima/RAG_System.git))](https://github.com/el-haridi-oumaima)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=el-haridi-oumaima&repo=RAG_System&theme=tokyonight&hide_border=true)](https://github.com/el-haridi-oumaima/RAG_System)
 
 ---
 
@@ -148,6 +149,19 @@ const oumaima = {
 
 ---
 
+## 💼 Professional Experience
+
+### 🎙️ Software Engineering Intern - SNRT (July - August 2025)
+- Designed RAG-based intelligent search system for 10K+ audio archives
+- Implemented automatic speech recognition and semantic search
+- Reduced search time by 75%
+
+### 💻 Full-Stack Development Intern - Rabat Animation et Développement (July 2024)
+- Developed Laravel showcase website, improving visibility by 30%
+- Created UX/UI prototypes on Figma, increasing interaction by 40%
+- Integrated HERE Maps API for optimized navigation (+25% accuracy)
+
+---
 
 ## 📫 Let's Connect!
 
@@ -156,6 +170,7 @@ const oumaima = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oumaima-el-haridi)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elharidioumaima@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/el-haridi-oumaima)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 
 </div>
 
