@@ -18,7 +18,6 @@ const oumaima = {
     education: "Engineering Student @ École des Sciences de l'Information",
     currentFocus: ["Full-Stack Development", "DevOps", "AI/ML"],
     lookingFor: "Final Year Internship (4-6 months)",
-    funFact: "I reduced audio search time by 75% using RAG architecture 🎯",
     hobbies: ["Reading 📚", "Design 🎨", "Crafts & DIY ✂️", "Tech Innovation 💡"]
 };
 ```
@@ -99,18 +98,6 @@ const oumaima = {
 
 
 
----
-
-## 🎯 Contribution Graph
-
-<div align="center">
-  
-[![Oumaima's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=el-haridi-oumaima&theme=tokyo-night&hide_border=true)](https://github.com/el-haridi-oumaima)
-
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -142,7 +129,6 @@ const oumaima = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oumaima-el-haridi)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elharidioumaima@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/el-haridi-oumaima)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 
 </div>
 
@@ -155,7 +141,7 @@ currently_seeking:
   position: "Final Year Internship"
   duration: "4-6 months"
   type: ["Full-Stack Development", "DevOps Engineering", "AI/ML Engineering"]
-  availability: "Immediately"
+  availability: "February"
 
 strengths:
   - "Strong problem-solving abilities"
