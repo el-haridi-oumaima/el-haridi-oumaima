@@ -83,41 +83,17 @@ const oumaima = {
 
 ---
 
-## 🏆 Featured Projects
 
-### 🎙️ Intelligent Audio Archive Search System
-**Technologies:** `Python` `FastAPI` `React` `RAG Architecture` `NLP` `Speech Recognition`
-
-> Developed an AI-powered search system for 10,000+ audio archives at SNRT, reducing search time by 75% using RAG architecture and semantic search.
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=el-haridi-oumaima&repo=RAG_System&theme=tokyonight&hide_border=true)](https://github.com/el-haridi-oumaima/RAG_System)
-
----
-
-### 🍽️ NutriWise - Nutrition Tracking App
-**Technologies:** `Jakarta EE` `Maven` `Docker` `Jenkins` `Kubernetes`
-
-> Full-stack JEE application with complete DevOps pipeline, featuring CI/CD automation, containerization, and secure authentication.
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=el-haridi-oumaima&repo=nutriwise&theme=tokyonight&hide_border=true)](https://github.com/el-haridi-oumaima)
-
----
-
-### 🧺 LaundryApp - Mobile Service Platform
-**Technologies:** `React Native` `Spring Boot` `Docker` `Swagger` `Figma`
-
-> "Uber for Laundry" mobile application with modern UX/UI design, RESTful APIs, and comprehensive documentation.
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=el-haridi-oumaima&repo=laundryapp&theme=tokyonight&hide_border=true)](https://github.com/el-haridi-oumaima)
-
----
 
 ## 📊 GitHub Statistics
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=el-haridi-oumaima&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=el-haridi-oumaima&theme=tokyonight&hide_border=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=el-haridi-oumaima&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=el-haridi-oumaima&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=el-haridi-oumaima&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
 
 </div>
 
