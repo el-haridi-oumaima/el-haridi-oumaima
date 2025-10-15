@@ -97,11 +97,7 @@ const oumaima = {
 
 </div>
 
-<div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=el-haridi-oumaima&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-</div>
 
 ---
 
