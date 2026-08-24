@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;DevOps+Enthusiast+%F0%9F%9A%80;AI+%26+ML+Explorer+%F0%9F%A4%96;Open+Source+Contributor+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;DevOps+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,17 +14,17 @@
 
 ```typescript
 const oumaima = {
-    location: "Rabat, Morocco 🇲🇦",
-    education: "Engineering Student @ École des Sciences de l'Information",
-    currentFocus: ["Full-Stack Development", "DevOps", "AI/ML"],
-    lookingFor: "Final Year Internship (4-6 months)",
+    location: "Tangier, Morocco 🇲🇦",
+    education: "Software Engineer @ École des Sciences de l'Information",
+    currentFocus: ["Full-Stack Development", "DevOps", "Cloud Computing"],
+    lookingFor: "Software Engineering Opportunities",
     hobbies: ["Reading 📚", "Design 🎨", "Crafts & DIY ✂️", "Tech Innovation 💡"]
 };
 ```
 
-🔭 Currently working on **AI-powered applications** and **Cloud-Native solutions**  
-🌱 Learning **Advanced Kubernetes**, **Microservices Architecture**, and **LLMs**  
-💬 Ask me about **React, Spring Boot, Docker, CI/CD, RAG Architecture**  
+🔭 Currently working on **cloud-native applications** and **microservices architectures**  
+🌱 Learning **Advanced Kubernetes**, **Cloud Platforms**, and **AI-powered systems**  
+💬 Ask me about **React, Spring Boot, Docker, CI/CD, Microservices**  
 ⚡ Fun fact: **I speak 3 languages and code in 10+ programming languages!**
 
 ---
@@ -38,9 +38,7 @@ const oumaima = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -68,21 +66,16 @@ const oumaima = {
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-### 🤖 AI & Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### 🎯 Tools & Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
 ---
-
-
 
 ## 📊 GitHub Statistics
 
@@ -96,8 +89,6 @@ const oumaima = {
 
 </div>
 
-
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -109,6 +100,12 @@ const oumaima = {
 ---
 
 ## 💼 Professional Experience
+
+### 🛠️ Software Engineer — Final Year Project - SINONE Expert Univers (February - June 2026)
+- Led the technical design of a migration from a monolithic academic system to a microservices architecture (15 services)
+- Built two standalone microservices with Spring Boot and React
+- Set up a complete CI/CD pipeline (Jenkins, Docker, SonarQube)
+- Managed inter-service communication via REST and Apache Kafka
 
 ### 🎙️ Software Engineering Intern - SNRT (July - August 2025)
 - Designed RAG-based intelligent search system for 10K+ audio archives
@@ -138,10 +135,9 @@ const oumaima = {
 
 ```yaml
 currently_seeking:
-  position: "Final Year Internship"
-  duration: "4-6 months"
-  type: ["Full-Stack Development", "DevOps Engineering", "AI/ML Engineering"]
-  availability: "February"
+  position: "Software Engineer"
+  type: ["Full-Stack Development", "DevOps Engineering", "Backend Development"]
+  availability: "Immediate"
 
 strengths:
   - "Strong problem-solving abilities"
@@ -150,9 +146,9 @@ strengths:
   - "Passion for innovation & technology"
 
 current_goals:
-  - "Master microservices architecture"
+  - "Master microservices architecture at scale"
   - "Contribute to open-source projects"
-  - "Build production-ready AI applications"
+  - "Build production-ready cloud applications"
   - "Obtain cloud certifications"
 ```
 
@@ -166,4 +162,4 @@ current_goals:
 
 ⭐️ From [el-haridi-oumaima](https://github.com/el-haridi-oumaima) with 💙
 
-</div>
+</div>wdr
