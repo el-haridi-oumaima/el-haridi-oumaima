@@ -162,4 +162,4 @@ current_goals:
 
 ⭐️ From [el-haridi-oumaima](https://github.com/el-haridi-oumaima) with 💙
 
-</div>wdr
+</div>
