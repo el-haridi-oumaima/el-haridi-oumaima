@@ -6,9 +6,6 @@
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=el-haridi-oumaima&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
-</p>
 
 ## 🚀 About Me
 
@@ -77,27 +74,7 @@ const oumaima = {
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=el-haridi-oumaima&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=el-haridi-oumaima&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=el-haridi-oumaima&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=el-haridi-oumaima&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
----
 
 ## 💼 Professional Experience
 
@@ -131,28 +108,6 @@ const oumaima = {
 
 ---
 
-## 💡 Quick Facts
-
-```yaml
-currently_seeking:
-  position: "Software Engineer"
-  type: ["Full-Stack Development", "DevOps Engineering", "Backend Development"]
-  availability: "Immediate"
-
-strengths:
-  - "Strong problem-solving abilities"
-  - "Quick learner with adaptability"
-  - "Team collaboration & leadership"
-  - "Passion for innovation & technology"
-
-current_goals:
-  - "Master microservices architecture at scale"
-  - "Contribute to open-source projects"
-  - "Build production-ready cloud applications"
-  - "Obtain cloud certifications"
-```
-
----
 
 <div align="center">
 
